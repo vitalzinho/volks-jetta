@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* fundo branco 1 */}
+.retangulo1 {
+position: absolute;
+width: 380px;
+height: 1067px;
+left: 0px;
+top: 0px;
+background-color: #001E50;
+z-index: -1;
+
+}
+
+#logo{
+    /* logo 1 */
+
+position: absolute;
+width: 208px;
+height: 195px;
+left: 75px;
+top: 40px;
+z-index: 1;
+
+}
+  .retangulo2{
+    /* Rectangle 2 */
+position: absolute;
+width: 1060px;
+height: 128px;
+left: 380px;
+top: 0px;
+background: #001E50;
+z-index: -1;
+
+}   
+    #logo2{
+/* VW 2 */
+position: absolute;
+width: 330px;
+height: 220px;
+left: 25px;
+top: 772px;
+
+}
+#logojetta { 
+top: 150px;
+left: 450px;
+position: absolute;
+width: 1200px;
+height: 800px;
+}
+ 
+#pot{
+    top: 260px;
+left: 100px;
+position: absolute;
+font-size: 50px;
+color: rgb(255, 255, 255);
+}
+
+#seg{
+top: 360px;
+left: 80px;
+position: absolute;
+font-size: 50px;
+color: rgb(255, 255, 255);
+}
+
+#esp { 
+    top: 460px;
+left: 55px;
+position: absolute;
+font-size: 50px;
+color: rgb(255, 255, 255);
+}
+
+#logojetta {
+    top: 280px;
+left: 430px;
+position: absolute ;
+font-size: 50px;
+color:rgb(255, 255, 255);
+z-index: 1;
+}

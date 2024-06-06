@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1024px; 
+}
+
+.retangulo11{
+/* Rectangle 11 */
+
+position: absolute;
+width: 1880px;
+height: 282px;
+left: 50px;
+top: -159px;
+background: #001E50;
+z-index: -1;
+}
+
+#seg{
+top: 25px;
+left: 800px;
+position: absolute;
+font-size: 60px;
+color: rgb(255, 255, 255);
+z-index: 1;
+}
+#assis{
+    top: 145px;
+    left: 400px;
+    position: absolute;
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+}
+#func{
+    top: 230px;
+    left: 10px;
+    position: absolute;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+}
+#dec{
+    top: 330px;
+    left: 595px;
+    position: absolute;
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+}
+ #dec2{
+    top: 400px;
+    left: 15px;
+    position:absolute;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    font-family: arial; 
+ }
+#deb{
+    top: 580px;
+    left: 400px;
+    position: absolute;
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    font-family: arial; 
+}
+#deb2{
+    top: 650px;
+    left: 15px;
+    position: absolute;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    font-family: arial; 
+}
+#home{
+    top: 900px;
+    left:900px;
+    position: absolute;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    font-family: arial; 
+}  
